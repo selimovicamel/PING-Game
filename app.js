@@ -37,6 +37,8 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
 	// 3. Update the round score if the rolled number was NOT a 1 
 });
 
+console.log('Hello');
+
 //document.querySelector('#current-' + activePlayer).textContent = dice;
 //document.querySelector('#current-' + activePlayer).innerHTML = '<em>' + dice + '</em>';
 //var x = document.querySelector('#score-0').textContent;
